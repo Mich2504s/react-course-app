@@ -15,7 +15,7 @@ const Navbar=()=> {
     <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul className="navbar-nav mx-auto ">
         <li className="nav-item">
-          <Link className="nav-link" to='/'>Inicioo</Link></li>
+          <Link className="nav-link" to='/'>Esto es una prueba de commin</Link></li>
           <li className="nav-item">
           <Link className="nav-link" to='/combos'>Combos</Link></li>
           <li className="nav-item">
